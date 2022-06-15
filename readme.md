@@ -8,14 +8,14 @@ The Cup Holder Resizing Ring is a 3D printed ring used to reduce the diameter of
 - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/cup-holder-resizing-ring/)
 
 
-## How to Obtain a <Device-Name>
+## How to Obtain a Cup Holder Resizing Ring
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the <Device-Name> are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain a <Device-Name> , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/device-name/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Cup Holder Resizing Ring , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/device-name/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
