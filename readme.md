@@ -38,11 +38,11 @@ The OpenSCAD file used to generate the device STL can be found in the [/Design_F
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.02    | [DeviceName_Design_Rationale](/Documentation/Device-Name_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.02    | [DeviceName_Maker_Checklist](/Documentation/Device-Name_Maker_Checklist_v1.0.pdf)     |    |
-| 3D Printing Guide    | 1.02    | [DeviceName_3D_Printing_Guide](/Documentation/Device-Name_3D_Printing_Guide_v1.0.pdf)     |
-| User Guide           | 1.02    | [DeviceName_User_Guide](/Documentation/Device-Name_Quick_Guide_v1.0.pdf)    |
-| Changelog            | 1.02    | [DeviceName_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.02    | [Cup_Holder_Resizing_Ring_Design_Rationale](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/blob/main/Cup%20Holder%20Resizing%20Ring/Documentation/Cup_Holder_Resizing_Ring_Design_Rationale.pdf)     |
+| Maker Checklist      | 1.02    | [Cup_Holder_Resizing_Ring_Maker_Checklist](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/blob/main/Cup%20Holder%20Resizing%20Ring/Documentation/Cup_Holder_Resizing_Ring_Maker_Checklist.pdf)     |    |
+| 3D Printing Guide    | 1.02    | [Cup_Holder_Resizing_Ring_3D_Printing_Guide](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/blob/main/Cup%20Holder%20Resizing%20Ring/Documentation/Cup_Holder_Resizing_Ring_3D_Print_Guide.pdf)     |
+| User Guide           | 1.02    | [Cup_Holder_Resizing_Ring_User_Guide](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/blob/main/Cup%20Holder%20Resizing%20Ring/Documentation/Cup_Holder_Resizing_Ring_User_Guide.pdf)    |
+| Changelog            | 1.02    | [Cup_Holder_Resizing_Ring_Changelog](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/blob/main/Cup%20Holder%20Resizing%20Ring/Documentation/Cup_Holder_Resizing_Ring_ChangeLog.pdf)     |
 
 ### Design Files
 [CAD File](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/tree/main/Cup%20Holder%20Resizing%20Ring/Design_Files)
