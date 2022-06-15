@@ -1,4 +1,4 @@
-# Device-Name
+# Cup Holder Resizing Ring
 The Cup Holder Resizing Ring is a 3D printed ring used to reduce the diameter of the opening of a cup holder. The design can be modified in OpenSCAD by inputing the appropriate dimensions.
 
 <img src="https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/blob/main/Cup%20Holder%20Resizing%20Ring/Images/Cup%20Holder%20Resizing%20Ring%20Close-up.JPG" width="500" alt="Picture of Cup Holder Resizing Ring printed in black PLA.">
