@@ -1,11 +1,11 @@
 # Device-Name
-The <Device Name is ....
+The Cup Holder Resizing Ring is a 3D printed ring used to reduce the diameter of the opening of a cup holder. The design can be modified in OpenSCAD by inputing the appropriate dimensions.
 
 <img src="Photos/Device-Name.jpg" width="500" alt="Picture of Device-Name.">
 
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/cup-holder-resizing-ring/)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/cup-holder-resizing-ring/)
 
 
 ## How to Obtain a <Device-Name>
@@ -26,22 +26,13 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist 
-
-### 2. Order the Off-The-Shelf Components
-
-The [Bill of Materials](/Documentation/Device-Name_BOM.xlsx) lists all of the parts and components required to build the Open Wobble Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
-
+The Makers Checklist() 
 
 ### 3. Print the 3D Printable components
 
-Print the components ...
+The OpenSCAD file used to generate the device STL can be found in the [/Design_Files](/Design_Files) folder.
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
-
-### 4. Assemble the <Device-Name>...
-
-Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+### 4. Put the ring into the intended cup holder.
 
 ## Files
 ### Documentation
