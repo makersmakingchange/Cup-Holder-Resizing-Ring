@@ -26,7 +26,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist() 
+[The Makers Checklist](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/blob/main/Cup%20Holder%20Resizing%20Ring/Documentation/Cup_Holder_Resizing_Ring_Maker_Checklist.pdf) 
 
 ### 3. Print the 3D Printable components
 
