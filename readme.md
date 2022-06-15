@@ -45,7 +45,7 @@ The OpenSCAD file used to generate the device STL can be found in the [/Design_F
 | Changelog            | 1.02    | [DeviceName_Changelog](/Documentation/Device-Name_Changelog_v1.0.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files)
+[CAD File](https://github.com/makersmakingchange/Cup-Holder-Resizing-Ring/tree/main/Cup%20Holder%20Resizing%20Ring/Design_Files)
 
 
 ## Attribution
@@ -77,9 +77,7 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ## How you can get involved
 1. Help design a solution 
-
-1. 
-3.
+2. Help build a device request
 
 
 ## Contact Us
